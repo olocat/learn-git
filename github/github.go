@@ -9,11 +9,11 @@ func GithubBranch() {
 	fmt.Println("this is second branch")
 }
 
-const ChangeVersion = "1"
+const ChangeVersion = "2"
 
 func Content() {
 	content := map[string]string{
-		"1": "the first change",
+		"2": "the second change",
 	}
 
 	jsonBytes, err := json.Marshal(content)
