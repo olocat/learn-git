@@ -9,7 +9,7 @@ func Master() {
 	fmt.Println("this is Master Branch")
 }
 
-const ChangeVersion = "1"
+const ChangeVersion = "2"
 
 func Content() {
 	content := map[string]string{
