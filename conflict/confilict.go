@@ -1,3 +1,3 @@
 package conflict
 
-const Conflict = "Second from Master"
+const Conflict = "Second from Branch"
